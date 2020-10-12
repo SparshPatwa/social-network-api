@@ -29,7 +29,7 @@ Non relational social networking API that tracks users and its friends, thoughts
 💻 npm start 
 
 ## Demonstration  
-🎥 [Video Walkthrough](./public/assets/video-demo/Social-Network-API_Walkthrough-Demo.mov)  
+🎥 [Video Walkthrough](./assets/video-demo/Social-Network-API_Walkthrough-Demo.mov)  
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
